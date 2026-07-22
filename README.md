@@ -153,6 +153,3 @@ if (impactSpeed > 250.f)
 
 ---
 
-## 📜 License
-
-MIT License.
